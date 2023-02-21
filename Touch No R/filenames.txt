@@ -1,0 +1,23 @@
+.ipynb_checkpoints
+02-09 leicester R.png
+04-01 bournemouth L.png
+05-02 crystal L.png
+05-09 arsenal L.png
+07-01 everton L.png
+09-02 burnley R.png
+10-10 everton R.png
+11-11 villa L.png
+14-01 city L.png
+14-11 fullham R.png
+20-04 liverpool R.png
+20-10 spurs L.png
+22-12 burnley L.png
+23-01 arsenal R.png
+23-08 liverpool L.png
+23-10 chelsea R.png
+25-01 Nottingham R.png
+28-01 reading L.png
+28-12 forest L.png
+filenames.txt
+Forest Touch.ipynb
+Untitled.ipynb
