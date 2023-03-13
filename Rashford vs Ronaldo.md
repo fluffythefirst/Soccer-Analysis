@@ -37,3 +37,4 @@ Although Rashford's average number of shots per game reached 2 when playing with
 [1] p-value = 0.055, t-value = 1.639, df = 35
 
 * all data were collected from whoscored.com
+* code used to generate heatmaps can be found in the 'Touch No R' folders
